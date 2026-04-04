@@ -1,0 +1,29 @@
+﻿{
+  "hero": {
+    "summaryLineOne": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero.",
+    "summaryLineTwo": "Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet."
+  },
+  "sections": {
+    "projects": "Projeler",
+    "freelance": "Freelance",
+    "opensource": "Open-Source",
+    "links": "Links"
+  },
+  "controls": {
+    "themeLight": "Açık",
+    "themeDark": "Koyu",
+    "switchTheme": "Tema Değiştir",
+    "switchLanguage": "Dil Değiştir",
+    "scrollTop": "Yukarı"
+  },
+  "project": {
+    "view": "İncele"
+  },
+  "links": {
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "mail": "E-Mail",
+    "leetcode": "LeetCode",
+    "bugcrowd": "Bugcrowd"
+  }
+}
