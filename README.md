@@ -1,6 +1,6 @@
 # Developer Portfolio
 
-A modern, responsive, and highly optimized developer portfolio built with Vue 3 and Vite.
+A modern, responsive, and highly optimized developer portfolio built with Vue.js.
 
 ## Features
 
