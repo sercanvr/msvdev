@@ -26,6 +26,16 @@ export const projectGroups = [
     id: 'freelance',
     titleKey: 'sections.freelance',
     projects: [
+          {
+        name: 'VeltGG - Elo Boosting',
+        subtitle: {
+          tr: 'VeltGG için özel olarak geliştirilmiş profesyonel bir Elo Boost hizmeti web sitesi. Bu platform, League of Legends, Valorant ve CS2 oyuncularına hızlı, güvenli ve anonim sıralama yükseltme hizmeti sunar. Modern arayüzü sayesinde kullanıcılar istedikleri oyunu seçip hizmete kolayca ulaşabilir.',
+          en: 'A professional Elo Boost service website developed exclusively for VeltGG. This platform provides fast, secure, and anonymous ranking services for League of Legends, Valorant, and CS2 players. Its modern interface allows users to easily select their game and access the service they need.',
+          de: 'Eine professionelle Elo-Boost-Service-Website, die exklusiv für VeltGG entwickelt wurde. Diese Plattform bietet schnelle, sichere und anonyme Ranking-Dienste für Spieler von League of Legends, Valorant und CS2. Durch die moderne Benutzeroberfläche können Nutzer ihr Spiel einfach auswählen und den gewünschten Service schnell erreichen.'
+        },
+        url: 'https://veltgg.vercel.app',
+        icon: '/veltgg.png',
+      },
       {
         name: 'The Cup Coffee - QR Menu',
         subtitle: {
